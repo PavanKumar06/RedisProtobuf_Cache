@@ -1,7 +1,9 @@
 # RedisProtobuf_Cache
 Blazor App that includes caching to Redis, using Protobufs.
 
-First you mut have docker setup in your PC.
+Just clone the repo and Run the application.
+
+First you must have docker setup in your PC.
 
 Next in the command prompt execute ->
 docker run --name my-redis -p 5002:6379 -d redis
